@@ -1,0 +1,31 @@
+climate_abr;name_long_en;name_long_pt;r;g;b
+Af;Tropical Rainforest;Tropical equatorial;56;83;164
+Am;Tropical Monsoon;Tropical com monções;29;116;187
+Aw;Tropical Savannah;Savana tropical;0;164;223
+BWh;Arid - Hot desert;Deserto quente;238;45;46
+BWk;Arid - Cold desert;Deserto frio;245;145;152
+BSh;Arid - Hot steppe;Semiárido quente;249;162;27
+BSk;Arid - Cold steppe;Semiárido frio;254;217;95
+Csa;Temperate - Dry hot summer;Temperado com verão seco e quente;245;235;0
+Csb;Temperate - Dry warm summer;Temperado com verão seco e ameno;199;200;46
+Csc;Temperate - Dry cold summer;Temperado com verão seco e frio;149;152;54
+Cwa;Temperate - Dry winter hot summer;Temperado com inverno seco e verão quente;119;195;124
+Cwb;Temperate - Dry winter warm summer;Temperado com inverno seco e verão ameno;32;179;90
+Cwc;Temperate - Dry winter cold summer;Temperado com inverno seco e verão frio;0;151;76
+Cfa;Temperate - Without dry season and hot summer;Temperado sem estação seca e verão quente;180;210;53
+Cfb;Temperate - Without dry season and warm summer;Temperado sem estação seca e verão ameno;0;176;75
+Cfc;Temperate - Without dry season and cold summer;Temperado sem estação seca e verão frio;0;166;79
+Dsa;Cold - Dry hot summer ;Continental com verão seco e quente;214;89;160
+Dsb;Cold - Dry warm summer;Continental com verão seco e ameno;162;69;153
+Dsc;Cold - Dry cold summer;Continental com verão seco e frio;171;53;147
+Dsd;Cold - Dry summer and very cold winter;Continental com verão seco e inverno extremamente frio;166;99;153
+Dwa;Cold - Dry winter and hot summer;Continental com inverno seco e verão quente;172;173;214
+Dwb;Cold - Dry winter and warm summer;Continental com inverno seco e verão ameno;83;116;185
+Dwc;Cold - Dry winter and cold summer;Continental com inverno seco e verão frio;76;84;164
+Dwd;Cold - Dry and very cold winter ;Continental com inverno seco e extremamente frio;60;43;130
+Dfa;Cold - Without dry season and hot summer;Continental sem estação seca com verão quente;0;179;205
+Dfb;Cold - Without dry season and warm summer;Continental sem estação seca com verão ameno;0;184;236
+Dfc;Cold - Without dry season and cold summer;Continental sem estação seca com verão frio;0;127;125
+Dfd;Cold - Without dry season and very cold winter;Continental sem estação seca com inverno extremamente frio;0;69;93
+ET;Polar - Tundra;Polar - Tundra;188;189;192
+EF;Polar - Frost;Polar - Glacial;128;129;133
